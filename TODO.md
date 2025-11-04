@@ -1,0 +1,5 @@
+- [x] Merge gallery content into index.html as a hidden section
+- [x] Change button onclick to toggle gallery visibility
+- [x] Update audio source to use local romantic2.mp3
+- [x] Delete gallery (1).html after merging
+- [x] Test the merged page by opening index.html
